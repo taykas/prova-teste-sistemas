@@ -70,7 +70,7 @@ def nivel_combustivel(percentual):
     
 # QUESTAO 08:
 
-# eu não lembrava de como fazer um slip ai fiz com for mesmo... :)
+# eu não lembrava de como fazer um split ai fiz com for mesmo... :)
 def classe_ipv4(ip):
     octeto = ""
 
