@@ -69,6 +69,8 @@ def nivel_combustivel(percentual):
         return "Cheio"
     
 # QUESTAO 08:
+
+# eu não lembrava de como fazer um slip ai fiz com for mesmo... :)
 def classe_ipv4(ip):
     octeto = ""
 
